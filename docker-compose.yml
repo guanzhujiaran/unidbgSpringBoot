@@ -1,0 +1,5 @@
+services:
+  unidbg-samsclub:
+    ports:
+      - "23335:23335"
+    image: unidbg-springboot-samsclub
